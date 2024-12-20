@@ -1,0 +1,48 @@
+{
+  "slider_fields": {
+    "Stem_height": [
+      0,
+      4
+    ],
+    "Season": [
+      0,
+      2
+    ],
+    "Cap_diameter": [
+      0,
+      1891
+    ],
+    "Gill_attachment": [
+      0,
+      6
+    ],
+    "Stem_width": [
+      0,
+      3569
+    ],
+    "Stem_colour": [
+      0,
+      12
+    ],
+    "Cap_shape": [
+      0,
+      6
+    ]
+  },
+  "single_select_fields": {
+    "Gill_colour": [
+      "0",
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ]
+  }
+}
